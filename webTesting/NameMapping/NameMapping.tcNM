@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{6BB6665D-63C6-4055-9381-E7172F7822A7}">
+				<TypeInfo Item0="{8A15B5DD-6E0D-4B69-A406-2D37CB50A40E}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{2AA0ADD7-73B4-4370-84F4-EC1A4566E941}">
+						<TypeInfo Item0="{52C23483-2B6A-4F32-81C3-9AF30430374E}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageTestcompleteSmartbearSoftwar" Key="{D8DDA287-9D0E-45EA-9EC5-7D25036FFC44}">
+								<Image FileName="1149578899" Left="8" Top="80" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{C7F8FB78-4C1E-4F27-84BC-1BDE7CF4AF41}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://smartbear.com/product/testcomplete/" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{2AA0ADD7-73B4-4370-84F4-EC1A4566E941}">
+			<Child Name="pageTestcompleteSmartbearSoftwar" Owner="{D8DDA287-9D0E-45EA-9EC5-7D25036FFC44}" />
+		</Child>
+	</LogicalNodes>
+</Root>

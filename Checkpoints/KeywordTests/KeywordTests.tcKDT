@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="regionCheckpoint" key="{0BB56FE6-DD82-44F2-ACF0-2EE3FFA9C301}" path="regionCheckpoint.tcKDTest" />
+		<child name="fileCheckPOint" key="{E1DE4EAA-C967-4606-B58C-DB2C11B01483}" path="fileCheckPOint.tcKDTest" />
+		<child name="propertyCheckpoint" key="{B708C5D7-EEE4-48CB-AB31-9B634EA6A726}" path="propertyCheckpoint.tcKDTest" />
+		<child name="lowLevelCheckpoint" key="{0897D28E-095C-4163-A4AD-5A25B3A17CCD}" path="lowLevelCheckpoint.tcKDTest" />
+	</children>
+</Root>

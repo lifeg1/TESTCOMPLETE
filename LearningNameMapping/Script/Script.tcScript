@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="nameObjectAliasNoteadScript" key="{CB583ED8-2B61-44A5-8B5E-1C015ED26E9E}" path="nameObjectAliasNoteadScript.py" />
+		<child name="bookmarkTodoScript" key="{CEC2B9DA-C5AA-40D1-9888-22F8E68B95CD}" path="bookmarkTodoScript.py" />
+	</children>
+</Root>

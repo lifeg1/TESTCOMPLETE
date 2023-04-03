@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="fileCheckingScript" key="{A7A069A4-B530-4551-8B6F-5979A3ED3FD4}" path="fileCheckingScript.py" />
+	</children>
+</Root>

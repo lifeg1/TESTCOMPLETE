@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B205BEB2-E15D-463E-8F95-9AF50A3E8F46}" version="15.0">
+	<children>
+		<child name="WebComparison1" key="{B44FBB01-428D-4A87-ACB7-9C47B8B0EBAD}" type="Web Comparison" typeId="{744C6E7C-6CC3-4731-B0E1-4A58319782AC}" pluginName="Web Checkpoints" path="WebComparison1.tcWcm" />
+		<child name="WebAccessibility1" key="{66D4F2F1-4546-470B-B018-5E4B065E6C6B}" type="Web Accessibility" typeId="{1F64F68B-7489-4F63-BAEF-EF1587C69DEC}" pluginName="Web Checkpoints" path="WebAccessibility1.tcWat" />
+	</children>
+</Root>

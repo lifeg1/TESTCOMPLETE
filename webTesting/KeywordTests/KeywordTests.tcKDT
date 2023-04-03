@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="webComparisionCheckpoint" key="{349B7B4F-7833-4A6C-A070-C1C6207EAB80}" path="webComparisionCheckpoint.tcKDTest" />
+		<child name="webAccessibilty" key="{D37C2012-5336-4402-B879-513241065352}" path="webAccessibilty.tcKDTest" />
+	</children>
+</Root>

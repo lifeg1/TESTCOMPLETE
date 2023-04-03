@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{D7A161F5-6050-4E61-B031-D512CF8B8C0A}">
+				<TypeInfo Item0="{A901922C-B7B9-41CC-BD35-EF8A120449A1}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{0F41945E-7EBC-4DA1-83C3-9DED96DD1540}">
+						<TypeInfo Item0="{4D45DBBB-5DFB-49C9-A805-41C034B450B0}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageGoogle" Key="{065EF996-6FFD-43E1-B5EE-1F32203EBDB7}">
+								<Image FileName="-2143347698" Left="8" Top="79" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{11C1606E-655A-45C9-B185-274C2DC35D9F}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.google.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panel" Key="{AC8F357B-C158-4C34-B4E7-CEDC744D6D66}">
+										<Image FileName="-2143347698" Left="8" Top="139" Right="1374" Bottom="236" />
+										<TypeInfo Item0="{D85046D3-A75D-466D-B766-0B89956E6CC5}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;LLD4me&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imageGoogle" Key="{460623B7-AEAB-4A96-AC5E-A6AEC26A0CC1}">
+										<Image FileName="1101284166" Left="555" Top="144" Right="827" Bottom="236" />
+										<TypeInfo Item0="{D85046D3-A75D-466D-B766-0B89956E6CC5}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[contains(@src, &apos;googlelogo_color_272x92dp.png&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//img[contains(@class, &apos;lnXdpd&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formSearch" Key="{CD016179-E190-46DA-9DE2-CFB48534AD75}">
+										<Image FileName="-1970931403" Left="28" Top="256" Right="1354" Bottom="396" />
+										<TypeInfo Item0="{D85046D3-A75D-466D-B766-0B89956E6CC5}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form[@role=&apos;search&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="submitbuttonGoogleSearch" Key="{F902D947-1FAE-4D17-9D3B-B27BD461DBEF}">
+										<Image FileName="-1970931403" Left="550" Top="337" Right="677" Bottom="373" />
+										<TypeInfo Item0="{2FB8B76D-50B0-4DA9-AD14-974AAB5F0FC3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[4]/center/input[@name=&apos;btnK&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[4]/center/input[@value=&apos;Google Search&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[4]/center/input[contains(@class, &apos;gNO89b&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="mspaint" Key="{10A23746-6AAF-45D6-B9A6-CBF0BD928214}">
+						<TypeInfo Item0="{E8F7EB09-4E95-487C-8C86-8EA0014A73E4}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="mspaint" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndMSPaintApp" Key="{FCFEE15E-B490-42EA-8A8A-B3574028075C}">
+								<Image FileName="-549658202" Left="0" Top="0" Right="1382" Bottom="744" />
+								<TypeInfo Item0="{A077C2BD-457E-4A88-A1E4-F55C0E5B43C9}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="MSPaintApp" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="MSPaintView" Key="{71A34B2F-16D6-43F2-8205-2CA2B6715F81}">
+										<Image FileName="-549658202" Left="8" Top="147" Right="1374" Bottom="710" />
+										<TypeInfo Item0="{7DC25E4E-DC4A-4BA0-B93A-1406644E1AB8}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="MSPaintView" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Afx" Key="{01CEA84A-007F-4AAF-BDAB-B6CD8BF74CC3}">
+												<Image FileName="-549658202" Left="8" Top="147" Right="1374" Bottom="710" />
+												<TypeInfo Item0="{7DC25E4E-DC4A-4BA0-B93A-1406644E1AB8}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:*" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{0F41945E-7EBC-4DA1-83C3-9DED96DD1540}">
+			<Child Name="pageGoogle" Owner="{065EF996-6FFD-43E1-B5EE-1F32203EBDB7}">
+				<Child Name="panel" Owner="{AC8F357B-C158-4C34-B4E7-CEDC744D6D66}" />
+				<Child Name="imageGoogle" Owner="{460623B7-AEAB-4A96-AC5E-A6AEC26A0CC1}" />
+				<Child Name="formSearch" Owner="{CD016179-E190-46DA-9DE2-CFB48534AD75}">
+					<Child Name="submitbuttonGoogleSearch" Owner="{F902D947-1FAE-4D17-9D3B-B27BD461DBEF}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="mspaint" Owner="{10A23746-6AAF-45D6-B9A6-CBF0BD928214}">
+			<Child Name="wndMSPaintApp" Owner="{FCFEE15E-B490-42EA-8A8A-B3574028075C}">
+				<Child Name="MSPaintView" Owner="{71A34B2F-16D6-43F2-8205-2CA2B6715F81}">
+					<Child Name="Afx" Owner="{01CEA84A-007F-4AAF-BDAB-B6CD8BF74CC3}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="wndMSPaintApp" Owner="{FCFEE15E-B490-42EA-8A8A-B3574028075C}">
+			<Child Name="MSPaintView" Owner="{71A34B2F-16D6-43F2-8205-2CA2B6715F81}">
+				<Child Name="Afx" Owner="{01CEA84A-007F-4AAF-BDAB-B6CD8BF74CC3}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

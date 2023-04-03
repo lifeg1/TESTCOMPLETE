@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{5607101B-91C5-482F-9188-A06768ABF8C3}">
+	<children>
+		<child name="LearningNameMapping" key="{EB2EB7C9-DB76-4D17-8DDF-50607F320574}" path="LearningNameMapping\LearningNameMapping.mds" />
+		<child name="DDT" key="{C4F012DB-0480-4292-BDF3-1C16C7015509}" path="DDT\DDT.mds" />
+		<child name="Checkpoints" key="{72226E91-A386-49DC-AEB0-ED2692D4A069}" path="Checkpoints\Checkpoints.mds" />
+		<child name="webTesting" key="{8724E1EA-ED61-4B65-8AF3-DF442E41E9E1}" path="webTesting\webTesting.mds" />
+	</children>
+	<testItems key="{74EC9F49-9A4A-4D87-81D4-8FEE327C1317}">
+		<children>
+			<testItem key="{EB2EB7C9-DB76-4D17-8DDF-50607F320574}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{C4F012DB-0480-4292-BDF3-1C16C7015509}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{72226E91-A386-49DC-AEB0-ED2692D4A069}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{8724E1EA-ED61-4B65-8AF3-DF442E41E9E1}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{774A4735-3A6F-40D6-992A-25EDA054DC52}" />
+	<analysis key="{0D4EB679-0B72-40D2-9F47-A65DFBA38B4B}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
